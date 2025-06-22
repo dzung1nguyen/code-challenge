@@ -1,4 +1,4 @@
-# Problem 3: Messy React
+# Problem 1: Three ways to sum to n
 
 Provide 3+ unique implementations of the following function in JavaScript.
 **Input**: `n` - any integer
